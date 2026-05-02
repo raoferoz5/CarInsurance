@@ -51,7 +51,7 @@ Name: Muhammad Sajid
 
 LinkedIn: https://www.linkedin.com/in/muhammad-sajid-softwaredeveloper/
 
-Location: Vehari, Pakistan
+Location: Vehari, Pakistan (open to work remote with international co)
 
 Expertise: .NET (C#), Python, SQL, and AI Automation
 
